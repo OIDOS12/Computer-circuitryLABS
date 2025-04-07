@@ -1,0 +1,8 @@
+C:/altera/91/labs/lab4/DDNF1.v {1 {vlog -work work -nocovercells C:/altera/91/labs/lab4/DDNF1.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Lab4_DDNF1
+
+Top level modules:
+	Lab4_DDNF1
+
+} {} {}}

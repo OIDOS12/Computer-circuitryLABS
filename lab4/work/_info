@@ -1,0 +1,56 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\91\labs\lab3
+vEx2_OR
+!s100 nRDmkFVK0BEch8[H[GDob0
+IBHF=GGAcbBnioMgAGLo`Q0
+VYfliPh^TfB6O=FTZ0CUe30
+Z0 dC:\altera\91\labs\lab4
+w1744028170
+8C:/altera/91/labs/lab4/Ex2_Volodymyr_Koliesnik_OR.v
+FC:/altera/91/labs/lab4/Ex2_Volodymyr_Koliesnik_OR.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+!s85 0
+31
+!s101 -O0
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+n@ex2_@o@r
+vLab4_DDNF1
+IXI;8hTm?;f4BX7MHg<e]J2
+ViiaRoWmQWTVEl4h7YTLH11
+Z4 dC:\altera\91\labs\lab4
+w1744026130
+8C:/altera/91/labs/lab4/DDNF1.v
+FC:/altera/91/labs/lab4/DDNF1.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@lab4_@d@d@n@f1
+!s100 HeXLA8eD8BCgQC:TFVOiN2
+!s85 0
+!s101 -O0
+vLab4_DDNF2
+Ikm>4PjT<z3NSX6nfk8RRb3
+VLjhjSWeKkPLQJ[oXK?>3B2
+R4
+w1744028523
+8C:/altera/91/labs/lab4/DDNF2.v
+FC:/altera/91/labs/lab4/DDNF2.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@lab4_@d@d@n@f2
+!s100 izQV]zceKAjVbB@z:@U6?2
+!s85 0
+!s101 -O0
