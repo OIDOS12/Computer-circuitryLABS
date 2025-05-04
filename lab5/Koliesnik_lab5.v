@@ -1,0 +1,9 @@
+module multiplexor4v1 (
+    input A1, A0,
+    input D0, D1, D2, D3,
+    output Q
+);
+
+    assign Q = (~A1 & ~A0 & D0) | (~A1 &  A0 & D1) | ( A1 & ~A0 & D2) | ( A1 &  A0 & D3);
+
+endmodule

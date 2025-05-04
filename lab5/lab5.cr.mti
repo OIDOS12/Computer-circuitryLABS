@@ -1,0 +1,6 @@
+C:/altera/91/labs/lab5/Koliesnik_lab5.v {0 {vlog -work work -nocovercells C:/altera/91/labs/lab5/Koliesnik_lab5.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module multiplexor4v1
+** Error: C:/altera/91/labs/lab5/Koliesnik_lab5.v(11): near "assign": syntax error, unexpected "assign", expecting ';'
+
+} {4.0 5.0} {}}
